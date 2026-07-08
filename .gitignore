@@ -1,0 +1,22 @@
+# Build directories
+build/
+bin/
+lib/
+out/
+
+# Qt dependencies downloaded locally
+qt/
+
+# IDE files
+.idea/
+.vs/
+*.user
+*.suo
+*.userossc
+*.sln
+*.vcxproj
+*.filters
+
+# OS generated files
+.DS_Store
+Thumbs.db
